@@ -11,6 +11,6 @@
 对url.txt中对域名进行遍历输出（对端口进行查询）
 - python3 main.py url.txt nmap
 
-![](./images/1.png)
+![](./image/1.png)
 
 
