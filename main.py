@@ -67,7 +67,7 @@ def ip_domain(ip):
                 total.append(domain + "/" + time)
                 site = domain
                 print("================================================================")
-                print(site + "/" + time)
+                print(ip+ "/" + site + "/" + time)
                 whois(site)
         return total,site
 # 调用nmap进行端口扫描
